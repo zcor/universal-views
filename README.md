@@ -1,4 +1,4 @@
-# Curve TriCrypto Factory
+# Curve Universal Views
 
 This github contains smart contracts (and accompanying tests) on a Universal Views contract for running useful math (ie `get_dy` and `get_dx`) on any generic Curve pool.
 
